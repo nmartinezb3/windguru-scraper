@@ -1,3 +1,3 @@
 # windguru-scraper
 
-python scraper.py
+``` python scraper.py ```
